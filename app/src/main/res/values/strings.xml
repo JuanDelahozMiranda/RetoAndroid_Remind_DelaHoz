@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Reto DevApp</string>
+    <string name="home_text">HomeApp</string>
+    <string name="Remind_text">Remind</string>
+    <string name="search_text">Search</string>
+    <string name="note_text">Note</string>
+
+    <string name="create_note">Nota creada correctamente</string>
+    <string name="create_remind">Recordatorio creado correctamente</string>
+
+    <string name="generic_error">Algo salio mal!</string>
+    <string name="fail_note">Algo salio mal creando tu Nota</string>
+    <string name="fail_remind">Algo salio mal creando tu Recordatorio</string>
+
+    <string name="fail_create">Los campos no pueden estar vacios</string>
+
+    <string name="get_name">Ingresa un nombre</string>
+    <string name="get_descript">Ingresa la descripcion</string>
+
+    <string name="nota_not_found">Nota no encontrada</string>
+    <string name="nota_delete">Nota eliminada correctamente!</string>
+    <string name="nota_update">Nota actualizada correctamente!</string>
+
+    <string name="remind_not_found">Recordatorio no encontrada</string>
+    <string name="remind_delete">Recordatorio eliminado correctamente!</string>
+    <string name="remind_update">Recordatorio actualizado correctamente!</string>
+
+    <string name="fail_delete">Los campos no pueden estar vacios</string>
+    <string name="title_activity_update_remind">UpdateRemindActivity</string>
+
+</resources>

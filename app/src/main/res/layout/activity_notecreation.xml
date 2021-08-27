@@ -21,7 +21,6 @@
 
     <EditText
         android:id="@+id/txtNote"
-        style="@android:style/Widget.DeviceDefault.EditText"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="116dp"
@@ -47,7 +46,6 @@
 
     <EditText
         android:id="@+id/txtDescrip"
-        style="@android:style/Widget.DeviceDefault.EditText"
         android:layout_width="300dp"
         android:layout_height="179dp"
         android:layout_marginTop="124dp"
